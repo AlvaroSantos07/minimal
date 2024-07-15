@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "521783456338",
+    "project_id": "looooja-f6974",
+    "storage_bucket": "looooja-f6974.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521783456338:android:94cb4acf635a61184ea58b",
+        "android_client_info": {
+          "package_name": "br.com.dtec.loja.minimalstore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqB1EZoZn7SKLEOlP8HKCBLDip9JxGZSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
